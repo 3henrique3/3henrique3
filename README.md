@@ -28,7 +28,6 @@ Atualmente focado em construir aplicações escaláveis em mobile. Ávido por re
 
 ### 📫 Find me
 
-* 💼 **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
 * 📧 **E-mail:** piterhenrie741@gmail.com
 
 ---
