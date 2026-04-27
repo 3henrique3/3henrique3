@@ -34,6 +34,8 @@ Atualmente trabalhando na construção de aplicações escaláveis em mobile. Á
 
 > *"Commit assinado é código de confiança."*
 
+<br>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3henrique3/3henrique3/output/pacman-contribution-graph-dark.svg">
