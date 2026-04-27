@@ -17,11 +17,11 @@ Atualmente focado em construir aplicações escaláveis em mobile. Ávido por re
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Github Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3henrique3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3henrique3&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
 ---
