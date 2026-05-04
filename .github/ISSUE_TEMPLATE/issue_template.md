@@ -1,9 +1,6 @@
 ---
 name: Template de Issues
 about: Use este template para abrir novas issues.
-title: ''
-labels: ''
-assignees: ''
 ---
 
 # Título
