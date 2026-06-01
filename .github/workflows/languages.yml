@@ -32,5 +32,8 @@ jobs:
         with:
           target_branch: languages-output
           build_dir: dist
+          theme: tokyonight
+          show_icons: true
+          include_all_icons: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
