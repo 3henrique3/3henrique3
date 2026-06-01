@@ -20,8 +20,8 @@ Atualmente trabalhando na construção de aplicações escaláveis em mobile. Á
 ### 📊 Github Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3henrique3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3henrique3&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://raw.githubusercontent.com/3henrique3/3henrique3/stats-output/stats.svg" height="200" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/3henrique3/3henrique3/languages-output/languages.svg" height="200" width="389" alt="languages graph"  />
 </p>
 
 ---
