@@ -28,7 +28,7 @@ Atualmente trabalhando na construção de aplicações escaláveis em mobile. Á
 
 ### 📫 Find me
 
-* 📧 **E-mail:** piterhenrie741@gmail.com
+* 📧 **E-mail:** henrique.0henri0@gmail.com
 
 ---
 
@@ -38,8 +38,8 @@ Atualmente trabalhando na construção de aplicações escaláveis em mobile. Á
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3henrique3/3henrique3/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3henrique3/3henrique3/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3henrique3/3henrique3/pacman-output/galaga-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3henrique3/3henrique3/galaga-output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/3henrique3/3henrique3/output/pacman-contribution-graph.svg">
   </picture>
 </p>
