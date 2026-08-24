@@ -20,8 +20,8 @@ Atualmente trabalhando na construção de aplicações escaláveis em mobile. Á
 ### 📊 Github Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/3henrique3/3henrique3/stats-output/stats.svg" height="200" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/3henrique3/3henrique3/languages-output/languages.svg" height="200" width="389" alt="languages graph"  />
+  <!-- <img src="https://raw.githubusercontent.com/3henrique3/3henrique3/stats-output/stats.svg" height="200" alt="stats graph"  /> -->
+  <img src="https://raw.githubusercontent.com/3henrique3/3henrique3/languages-output/languages.svg" height="170" width="389" alt="languages graph"  />
 </p>
 
 ---
